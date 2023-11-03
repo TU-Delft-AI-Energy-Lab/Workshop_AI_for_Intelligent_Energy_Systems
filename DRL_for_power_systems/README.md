@@ -21,4 +21,5 @@ Training an intelegent Battery storage system by using the DDPG algorithm
 
 ### References
 https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+
 https://thomassimonini.medium.com/q-learning-lets-create-an-autonomous-taxi-part-2-2-8cbafa19d7f5
