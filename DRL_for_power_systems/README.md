@@ -2,6 +2,7 @@
 
 There are three differen task baout learning to apply RL in differen t einvironment settings. Further Their is one challenge included that should help how DRL can be utilized in power system related problem formulations.
 For applying the algorithms the packages "gym" for initalizing the environment and "pytprch" for implementing the neuronal networks are used. The detailed package requiremnts are included in the begining of each indivdual notebook.
+Note: The blanked Tasks are in the Blank folder, whereas the solutions are in Master.
 
 The task cover the following RL Algorithms below. A more detailed discription about each task and their application is given in the notebooks respectively.
 ## Q-Learning
