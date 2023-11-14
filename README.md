@@ -1,6 +1,6 @@
 # Workshop_AI_for_Intelligent_Energy_Systems
 
-The AI for Intelligent Energy Systems Workshop is a 3-day workshop hosted by the Delft AI Energy Lab. The workshop explores the use of AI algorithms to solve emerging challenges in energy systems. Codes from the workshop have been provided for students and researchers. The workshop outline is organized as follows:
+The AI for Intelligent Energy Systems Workshop is a 3-day workshop hosted by the Delft AI Energy Lab. The workshop explores the use of AI algorithms to solve emerging challenges in energy systems. Codes from the workshop have been provided for students and researchers. The workshop repository is organized as follows:
 
 Day 1: Large Language Models (LLMs) in Energy Markets
 
