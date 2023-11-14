@@ -1,22 +1,22 @@
 # Learning to apply (Deep) Reinforcement Learning for Power Systems
 
-There are three differen task baout learning to apply RL in differen t einvironment settings. Further Their is one challenge included that should help how DRL can be utilized in power system related problem formulations.
-For applying the algorithms the packages "gym" for initalizing the environment and "pytprch" for implementing the neuronal networks are used. The detailed package requiremnts are included in the begining of each indivdual notebook.
-Note: The blanked Tasks are in the Blank folder, whereas the solutions are in Master.
+There are three different learning tasks to apply RL in different environment settings. Further, There is one challenge included that should help how DRL can be utilized in power system-related problem formulations.
+The packages "Gym" for initializing the environment and "Pytorch" for implementing the neuronal networks are used for applying the algorithms. The detailed package requirements are included at the beginning of each notebook.
+Note: The blank Tasks are in the Blank folder, whereas the solutions are in Master.
 
-The task cover the following RL Algorithms below. A more detailed discription about each task and their application is given in the notebooks respectively.
+The task covers the following RL Algorithms below. A more detailed description of each task and their application is given in the notebooks respectively.
 ## Q-Learning
 
-Walking through how to apply Tabular Q Learning with the Taxi Driver environment
+Walking through how to apply Tabular Q Learning in the Taxi Driver environment
 
 ## Deep Q-Networks
 Applying DQNs within the cart-pole environment
 
 ## DDPG
-Learning about how to utlize actor-critic archiecture with in the mountain car environment
+Learning about how to utilise actor-critic architecture within the mountain car environment
 
-## Training an intelegent Battery storage system
-Training an intelegent Battery storage system by using the DDPG algorithm
+## Training an intelligent Battery storage system
+Training an intelligent Battery storage system by using the DDPG algorithm
 
 
 ### References
