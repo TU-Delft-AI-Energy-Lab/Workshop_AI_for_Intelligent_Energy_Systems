@@ -31,6 +31,11 @@ The AI for Intelligent Energy Systems Workshop is a 3-day workshop hosted by the
 
 For questions, please contact dai-energy-lab@tudelft.nl 
 
+## License
+   
+This work is licensed under a
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
 
