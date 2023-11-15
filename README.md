@@ -29,7 +29,7 @@ The AI for Intelligent Energy Systems Workshop is a 3-day workshop hosted by the
 * DDPG for mountain car environment
 * Training an intelligent battery storage system
 
-For questions, please contact o.a.arowolo@tudelft.nl and dai-energy-lab@tudelft.nl 
+For questions, please contact dai-energy-lab@tudelft.nl 
 
 
 
