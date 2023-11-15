@@ -2,7 +2,7 @@
 
 The AI for Intelligent Energy Systems Workshop is a 3-day workshop hosted by the Delft AI Energy Lab. The workshop explores the use of AI algorithms to solve emerging challenges in energy systems. Codes from the workshop have been provided for students and researchers. The workshop repository is organized as follows:
 
-*Day 1: Large Language Models (LLMs) in Energy Markets*
+*Large Language Models (LLMs) in Energy Markets*
 
 [LLM_for_energy_market.ipynb](https://github.com/TU-Delft-AI-Energy-Lab/Workshop_AI_for_Intelligent_Energy_Systems/blob/main/LLM_for_energy_market.ipynb)
 
@@ -12,7 +12,7 @@ The AI for Intelligent Energy Systems Workshop is a 3-day workshop hosted by the
 * Training your own LLM with Llama and Stable Beluga2
 * Fine-tuning locally trained LLM to predict electricity price
 
-Day 2: Graph Neural Networks for Power Systems
+*Graph Neural Networks for Power Systems*
 
 [GNN_for_power_systems](https://github.com/TU-Delft-AI-Energy-Lab/Workshop_AI_for_Intelligent_Energy_Systems/tree/main/GNN_for_power_systems)
 
@@ -20,7 +20,7 @@ Day 2: Graph Neural Networks for Power Systems
 * Solving common graph tasks with graph neural networks (GNN)
 * Solving Optimal Power Flow (DCOPF) problem with GNN
 
-Day 3: Deep Reinforcement Learning for Power Systems
+*Deep Reinforcement Learning for Power Systems*
 
 [DRL_for_power_systems](https://github.com/TU-Delft-AI-Energy-Lab/Workshop_AI_for_Intelligent_Energy_Systems/tree/main/DRL_for_power_systems)
 
